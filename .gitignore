@@ -1,0 +1,15 @@
+# Ignoring some general unwanted files and folders
+**/.gradle
+**/.vscode
+**/.mvn
+**/build/
+
+
+serverside/survivalpixel2d.server/target
+serverside/survivalpixel2d.server/.mvn/wrapper/maven-wrapper.jar
+serverside/survivalpixel2d.server/mvnw
+serverside/survivalpixel2d.server/mvnw.cmd
+
+clientside/gradlew
+clientside/gradlew.bat
+clientside/gradle-app.setting
