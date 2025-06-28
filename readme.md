@@ -15,3 +15,6 @@ To run this project, launch the server by changing your directory to serverside/
 * Sandbox like infinite terrain generation (inspired by minecraft)
 * Environment and player interaction
 * Different environments
+
+# Output
+You can see the current development in the form of videos in /output folder.
